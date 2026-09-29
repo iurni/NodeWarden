@@ -12,7 +12,7 @@
   <a href="https://github.com/shuaiplus/NodeWarden/releases/latest"><img src="https://img.shields.io/github/v/release/shuaiplus/NodeWarden?display_name=tag" alt="Latest Release" /></a>
 
 </p>
-
+的
 <p align="center">
   <a href="https://t.me/NodeWarden_News">Telegram Channel</a> |
   <a href="https://t.me/NodeWarden_Official">Telegram Group</a>
